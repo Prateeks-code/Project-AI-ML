@@ -8,9 +8,9 @@ Project 4  click here- https://project-4-ktyv4mynqkhwhevnz7mhy8.streamlit.app/
 
 Project 5  click here- https://project-5-pvufyrkec7ouq8cebthwb9.streamlit.app/
 
-Project 6  click here-
+Project 6  click here- https://project-6-prateek.streamlit.app/
 
-Project 7  click here-
+Project 7  click here- https://project-7-ahcapugcbrv8ghqbkwz2wi.streamlit.app/
 
 Project 8  click here-
 
