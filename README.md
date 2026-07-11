@@ -1,4 +1,5 @@
-Project 1  click here- https://project-1-frwae3yqtgleagqpik7vws.streamlit.app/
+Project 1 (Google Play Store) 
+click here- https://project-1-frwae3yqtgleagqpik7vws.streamlit.app/
 
 Project 3  click here- https://project-3-lpv6uxwdrx6thgsn5iyycd.streamlit.app/
 
