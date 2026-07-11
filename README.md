@@ -1,7 +1,11 @@
 Project 1 (Google Play Store) 
 click here- https://project-1-frwae3yqtgleagqpik7vws.streamlit.app/
 
-Project 3  click here- https://project-3-lpv6uxwdrx6thgsn5iyycd.streamlit.app/
+Project 2 (outliers_percentile_exercise)
+
+Project 3 (Canada Per Capita Income)
+
+click here- https://project-3-lpv6uxwdrx6thgsn5iyycd.streamlit.app/
 
 Project 4  click here- https://project-4-ktyv4mynqkhwhevnz7mhy8.streamlit.app/
 
