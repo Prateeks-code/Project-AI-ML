@@ -32,4 +32,5 @@ Project 9  (Male & Female Eye Detection)
 
 click here- https://project-9-es4xcatvqbceg95cv9vswi.streamlit.app/
 
-Project 10  click here-
+Project 11  
+click here-  https://project-11-3unyfmv3vrh4szuv3qef5a.streamlit.app/
