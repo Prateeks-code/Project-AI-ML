@@ -32,5 +32,9 @@ Project 9  (Male & Female Eye Detection)
 
 click here- https://project-9-es4xcatvqbceg95cv9vswi.streamlit.app/
 
+Project 10  (Rag Health Chatbot)
+
+click here- https://project-10-6glkkkkfxmbwfstonkzyxr.streamlit.app/
+
 Project 11  
 click here-  https://project-11-3unyfmv3vrh4szuv3qef5a.streamlit.app/
