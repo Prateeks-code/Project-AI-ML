@@ -22,7 +22,7 @@ click here- https://project-6-prateek.streamlit.app/
 
 Project 7  (Gender Classification AI App)
 
-click here- https://project-7-ahcapugcbrv8ghqbkwz2wi.streamlit.app/
+click here -https://project--jea7pbmbwz8bj3svanjtk7.streamlit.app/
 
 Project 8  (Iris Flower Classification using K-Nearest Neighbors)
 
